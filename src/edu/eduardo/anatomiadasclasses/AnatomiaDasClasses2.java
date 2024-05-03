@@ -1,3 +1,4 @@
+package edu.eduardo.anatomiadasclasses;
 public class AnatomiaDasClasses2 {
     
     //Main method, which is the entry point of the program
@@ -8,7 +9,7 @@ public class AnatomiaDasClasses2 {
         String lastName = "Pires";
         
         // Calls the fullName method passing the names as arguments. 
-        String fullName = fullName (firstName, lastName);
+        String fullName = AnatomiaDasClasses2.fullName (firstName, lastName);
 
         // Prints the resulting full name
         System.out.println(fullName);
