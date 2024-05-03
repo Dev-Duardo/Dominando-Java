@@ -1,4 +1,4 @@
-package edu.eduardo.anatomiadasclasses;
+package edu.anatomiadasclasses;
 public class AnatomiaDasClasses2 {
     
     //Main method, which is the entry point of the program

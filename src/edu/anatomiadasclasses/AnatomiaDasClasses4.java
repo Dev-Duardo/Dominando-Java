@@ -1,4 +1,4 @@
-package edu.eduardo.anatomiadasclasses;
+package edu.anatomiadasclasses;
 public class AnatomiaDasClasses4 {
     // Indentation
     public static void main(String[] args) {

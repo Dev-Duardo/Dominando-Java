@@ -1,4 +1,4 @@
-package edu.eduardo.anatomiadasclasses;
+package edu.anatomiadasclasses;
 
 
 public class JavaBeans {
