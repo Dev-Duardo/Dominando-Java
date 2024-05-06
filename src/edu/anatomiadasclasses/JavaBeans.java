@@ -1,6 +1,4 @@
 package edu.anatomiadasclasses;
-
-
 public class JavaBeans {
 
     public static void main(String[] args) {

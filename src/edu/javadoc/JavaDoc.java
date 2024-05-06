@@ -1,5 +1,4 @@
 package edu.javadoc;
-
 /**
  * Esta classe representa um exemplo de documentação Javadoc.
  * Foi criada por João Silva.
