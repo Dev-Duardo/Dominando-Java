@@ -1,3 +1,4 @@
+package edu.estruturasderepeticoes;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class EstruturasDeRepeticoes {

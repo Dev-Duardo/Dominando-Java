@@ -1,3 +1,4 @@
+package edu.estruturasderepeticoes;
 import java.util.Random;
 
 public class EstruturasDeRepeticoes2 {
