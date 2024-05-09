@@ -3,7 +3,7 @@ package edu.tratamentodeexecoes.exemplocep;
 public class FormatadorCepExemplo {
     public static void main(String[] args) {
         try {
-            String cepFormatado = formatarCep("2475250");
+            String cepFormatado = formatarCep("24752500");
             System.out.println(cepFormatado);
         } catch (CepInvalidoException e){
             System.err.println("O Cep não corresponde!");
